@@ -1,9 +1,11 @@
 📚 Biblioteca Virtual - Projeto Acadêmico
 
 
-Este projeto foi desenvolvido como parte de um trabalho acadêmico, com o objetivo de criar uma Biblioteca Virtual que permite o gerenciamento de livros, usuários e empréstimos de forma digital e prática.
+Este projeto foi desenvolvido como parte de um trabalho acadêmico, com o objetivo de criar uma Biblioteca Virtual que permite o gerenciamento de livros, usuários e formas de pagamentos de forma digital e prática.
 
-O trabalho foi dividido em duas partes:
+O trabalho foi dividido em 3 partes:
+
+Documentação necessária para o planejamento e estruturação do sistema, contemplando tanto os aspectos funcionais quanto os fluxos de operação e as diretrizes para o desenvolvimento.
 
 Interface visual criada no Figma, com foco na experiência do usuário
 
