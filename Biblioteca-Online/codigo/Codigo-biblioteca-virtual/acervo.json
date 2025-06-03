@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "Codigo Limpo",
+        "autor": "Robert Martin",
+        "sinopse": "O renomado especialista em software, Robert C. Martin, apresenta um paradigma revolucionário com Código limpo: Habilidades Práticas do Agile Software. Martin se reuniu com seus colegas do Mentor Object para destilar suas melhores e mais ágeis práticas de limpar códigos “dinamicamente” em um livro que introduzirá gradualmente dentro de você os valores da habilidade de um profissional de softwares e lhe tornar um programador melhor",
+        "preco": 72.90
+    },
+    {
+        "titulo": "Entendendo Algoritimos",
+        "autor": "Aditya",
+        "sinopse": "Um guia ilustrado para programadores e outros curiosos. Um algoritmo nada mais é do que um procedimento passo a passo para a resolução de um problema.",
+        "preco": 57.0
+    }
+]

@@ -1,0 +1,3 @@
+[2025-05-25 17:51:38] [V1.0] - Criamos a tela de login/cadastro para usuarios com as devidas auntenticações(CPF,EMAIL).
+[2025-05-26 15:07:26] [V1.1] - Criamos o login de admin e o sistema de armazenar livros,editar e excluir - Tudo ligado ao admin. isso tudo dentro de arquivo json.
+[2025-05-27 16:40:06] [V1.2] - Terminamos o sistema, fizemos suporte,historico de compra,formas de pagamentos,algumas melhorias e importamos tudo para um arquivo chamado main

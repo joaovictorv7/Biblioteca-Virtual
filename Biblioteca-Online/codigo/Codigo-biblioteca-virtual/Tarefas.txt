@@ -1,0 +1,18 @@
+- Login/Cadastro usuarios ---------FEITO------------- # Alterações no futuro (melhorias)
+
+- Sistema de armazernar livros  ---------FEITO-------------
+
+    ° Sistema de pesquisar livros [autor ou titulo do livro]  ---------FEITO-------------
+
+        ° Sistema de exibir informaçoes do livro ---------FEITO-------------
+
+            ° Sistema de comprar livros ---------FEITO-------------
+
+- Sistema de mandar mensagem pro suporte ---------FEITO-------------
+
+- Sistema de exibir o historico de comprar  ---------FEITO-------------
+
+- Login de admin ---------FEITO-------------
+
+Possiveis melhorias: [Separar por pastas, Quando um usuario compra um livro,
+e o admin edita o nome desse livro. Nao Atualiza no banco de dados do usuario. ] ---------NAO ADICIONADO-------------
